@@ -1,4 +1,4 @@
-// A Hello Git !
+// A Hello Git Firt Modification!
 using System;
 namespace HelloGit
 {
@@ -6,7 +6,7 @@ namespace HelloGit
     {
         static void Main() 
         {
-            Console.WriteLine("Hello Git!");
+            Console.WriteLine("Hello Git! First modification");
 
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit.");
