@@ -1,3 +1,0 @@
-ci est un fichier texte de bonne qualité
-
-maintenant, ceci est une mofif depuis github
